@@ -1,6 +1,14 @@
 @charset "utf-8";
 /* CSS Document */
 
+.bodyInformation {
+	font-size:20px;
+}
+
+.max-width {
+	max-width: 992px;
+}
+
 .carousel-inner > .item > img,
   .carousel-inner > .item > a > img {
       width: 100%;
